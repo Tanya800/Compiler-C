@@ -1,0 +1,8 @@
+﻿  emitter.c
+  lexan.c
+c:\users\lenov\source\repos\compilerc\compilerc\lexan.c(34): warning C4013: error: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\lenov\source\repos\compilerc\compilerc\lexan.c(39): warning C4013: lookup: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\lenov\source\repos\compilerc\compilerc\lexan.c(40): warning C4013: insert: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+c:\users\lenov\source\repos\compilerc\compilerc\emitter.c(27): warning C4716: emit: должна возвращать значение
+  compilerC.vcxproj -> C:\Users\Lenov\source\repos\compilerC\Debug\compilerC.exe
